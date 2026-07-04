@@ -4,15 +4,12 @@
 
 <div align="center">
 
-<!-- BANNER — Replace with your actual banner image -->
-<!-- Recommended: 1280×320px or 1200×300px, PNG/SVG, transparent or branded background -->
-<img src="https://via.placeholder.com/1280x320/0a0a0a/ffffff?text=HINDUKUSHSOFT+TECHNOLOGIES" alt="HindukushSoft Technologies Banner" width="100%" />
-
-<br />
+<!-- HEADER WAVE — Branded gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6634f1,100:b882fc&height=200&section=header&text=&fontSize=0" width="100%" alt="" />
 
 <!-- LOGO — Replace with your actual company logo -->
 <!-- Recommended: 120×120px or 150×150px, PNG/SVG with transparent background -->
-<img src="https://via.placeholder.com/150x150/0a0a0a/00d4aa?text=HS" alt="HindukushSoft Technologies Logo" width="120" />
+<img src="https://via.placeholder.com/150x150/0a0a0a/b882fc?text=HS" alt="HindukushSoft Technologies Logo" width="120" />
 
 <br />
 <br />
@@ -23,7 +20,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-hindukushsoft.com-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindukushsoft.com)
+[![Website](https://img.shields.io/badge/Website-hindukushsoft.com-6634f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindukushsoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HindukushSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hindukushsoft/)
 [![X](https://img.shields.io/badge/X-@hindukushsoft-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/hindukushsoft)
 
@@ -31,12 +28,19 @@
 
 We are a Pakistan-based software company creating **scalable, modern, and impactful** digital solutions for businesses, government organizations, startups, and educational institutions. As the **first registered software house in Chitral**, we are committed to technological excellence and community empowerment.
 
+<br />
+
+![PSEB](https://img.shields.io/badge/Registered_with-PSEB-6634f1?style=flat-square)
+![NAVTTC](https://img.shields.io/badge/Recognized_by-NAVTTC-b882fc?style=flat-square)
+![UoC MoU](https://img.shields.io/badge/MoU-University_of_Chitral-6634f1?style=flat-square)
+![SkillBridge](https://img.shields.io/badge/PSEB-SkillBridge_Partner-b882fc?style=flat-square)
+
 </div>
 
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
@@ -44,7 +48,9 @@ We are a Pakistan-based software company creating **scalable, modern, and impact
 
 **HindukushSoft Technologies Pvt. Ltd.** was founded by **Abu Zar Mishwani** and officially incorporated on **May 6, 2025**, with the vision of building innovative, scalable, and impactful digital solutions.
 
-We specialize in designing, developing, and maintaining custom software tailored to real-world needs — from enterprise-grade management systems for government departments to AI-powered applications for modern businesses.
+We specialize in designing, developing, and maintaining custom software tailored to real-world needs, from enterprise-grade management systems for government departments to AI-powered applications for modern businesses.
+
+**Registered with the Pakistan Software Export Board (PSEB)** and recognized by the **National Vocational and Technical Training Commission (NAVTTC)**, we have also signed a **Memorandum of Understanding (MoU) with the University of Chitral** to provide internship opportunities to BS Computer Science students. Under the **PSEB SkillBridge Apprenticeship Program**, we offer paid internship and apprenticeship opportunities in partnership with the **Ministry of IT and Telecom**.
 
 <br />
 
@@ -54,7 +60,7 @@ We specialize in designing, developing, and maintaining custom software tailored
 
 ### Our Mission
 
-To help organizations digitally transform their operations through reliable, scalable, and modern software solutions — while creating opportunities for aspiring developers to gain real-world industry experience.
+To help organizations digitally transform their operations through reliable, scalable, and modern software solutions, while creating opportunities for aspiring developers to gain real-world industry experience.
 
 </td>
 <td width="50%">
@@ -91,7 +97,7 @@ To become a globally recognized technology company that creates innovative softw
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
@@ -110,7 +116,7 @@ To become a globally recognized technology company that creates innovative softw
 </td>
 <td align="center" width="25%">
 <br />
-<img src="https://img.icons8.com/fluency/48/business-building.png" alt="Enterprise" width="40" />
+<img src="https://img.icons8.com/fluency/48/server.png" alt="Enterprise" width="40" />
 <br /><br />
 <strong>Enterprise Software</strong>
 <br />
@@ -179,7 +185,7 @@ To become a globally recognized technology company that creates innovative softw
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
@@ -187,21 +193,21 @@ To become a globally recognized technology company that creates innovative softw
 
 <div align="center">
 
-### Frontend
+### Frontend (Core)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,html,css,js,bootstrap&theme=dark" alt="Frontend Technologies" />
 
 <br /><br />
 
-### Backend
+### Backend (Core)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,express&theme=dark" alt="Backend Technologies" />
 
 <br /><br />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database Technologies" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="Database Technologies" />
 
 <br /><br />
 
@@ -209,43 +215,54 @@ To become a globally recognized technology company that creates innovative softw
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_Integrations-000000?style=for-the-badge&logo=openai&logoColor=white)
-![AI Workflows](https://img.shields.io/badge/AI_Workflows-00d4aa?style=for-the-badge&logo=robot-framework&logoColor=white)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-6634f1?style=for-the-badge&logo=robot-framework&logoColor=white)
+
+<br /><br />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&theme=dark" alt="Mobile Technologies" />
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
 <br /><br />
 
 ### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel&theme=dark" alt="DevOps & Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel,linux&theme=dark" alt="DevOps & Tools" />
 
 <br /><br />
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,kotlin,java&theme=dark" alt="Languages" />
 
 </div>
 
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
-## 🚀 Featured Projects
+## 📦 Featured Projects
 
 | Project | Description | Status | Technologies |
 |---------|-------------|--------|--------------|
-| **MFSC MIS** | Management Information System for the Agriculture Department of Lower Chitral — a production-grade enterprise solution digitizing government operations. | ✅ Production | Next.js · Node.js · PostgreSQL |
-| <!-- PROJECT_PLACEHOLDER --> | <!-- Description --> | <!-- Status --> | <!-- Technologies --> |
+| **MFSC MIS** | Management Information System for the Agriculture Department of Lower Chitral. A production-grade enterprise solution digitizing government operations, currently being rolled out across all 38 districts of Khyber Pakhtunkhwa under the Government of KP. | ✅ Production | Next.js · Node.js · PostgreSQL |
+| **GPA Calculator & Planner** | The #1 GPA Calculator app worldwide on Android with 50,000+ downloads. A full-scale academic management app supporting multiple grading systems, semester planning, target GPA forecasting, and professional PDF reporting. | ✅ Production | Kotlin · Jetpack Compose · Material 3 |
+| **Cibao Grille** | Full-stack web platform for a fine dining restaurant in Naples, Florida. Features dynamic menu management, CMS-powered content, and a polished brand experience. | ✅ Production | Next.js · Payload CMS · TypeScript |
+| **Hotel Innjigaan** | Custom hospitality website for a hotel in Chitral with room showcases, booking inquiries, gallery, and brand-aligned design. Integrated with desktop hotel management software. | ✅ Production | React.js · TypeScript · Vite · Tailwind CSS |
+| **Inventro POS** | Desktop point-of-sale and inventory management system for retail businesses. Features billing, inventory tracking, supplier management, khaata management, expense tracking, and role-based access. | ✅ Production | Electron · React · TypeScript · SQLite |
 | <!-- PROJECT_PLACEHOLDER --> | <!-- Description --> | <!-- Status --> | <!-- Technologies --> |
 
-> **Note:** This table will be updated as we open-source and publish more projects. Stay tuned.
+> **Note:** This table will be updated as we continue to ship and open-source more projects.
 
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
@@ -265,13 +282,15 @@ We are actively working on open-sourcing internal tools and contributing to exis
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
 ## 🎓 Internships & Careers
 
 HindukushSoft Technologies runs one of the most practical internship programs in the region. Unlike traditional classroom-based training, our program emphasizes **real-world software development** from day one.
+
+We are an official partner under the **PSEB SkillBridge Apprenticeship Program** (Ministry of IT & Telecom), offering **paid internships and apprenticeships**. We have also signed a **MoU with the University of Chitral** to provide structured internship opportunities to BS Computer Science students.
 
 **What our interns experience:**
 
@@ -282,7 +301,7 @@ HindukushSoft Technologies runs one of the most practical internship programs in
 - Mentorship from experienced developers
 - Real client-inspired projects
 
-We have successfully completed **three internship batches**, producing developers who are now working professionally — including within HindukushSoft itself.
+We have successfully completed **three internship batches**, producing developers who are now working professionally, including within HindukushSoft itself.
 
 <br />
 
@@ -290,7 +309,7 @@ We have successfully completed **three internship batches**, producing developer
 
 **Interested in joining us?**
 
-[![Careers](https://img.shields.io/badge/View_Open_Positions-00d4aa?style=for-the-badge&logo=readthedocs&logoColor=white)](https://hindukushsoft.com)
+[![Careers](https://img.shields.io/badge/View_Open_Positions-6634f1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.hindukushsoft.com/careers)
 [![Email Us](https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hindukushsoft.com)
 
 </div>
@@ -298,7 +317,7 @@ We have successfully completed **three internship batches**, producing developer
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
@@ -306,7 +325,7 @@ We have successfully completed **three internship batches**, producing developer
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-hindukushsoft.com-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindukushsoft.com)
+[![Website](https://img.shields.io/badge/Website-hindukushsoft.com-6634f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindukushsoft.com)
 [![Email](https://img.shields.io/badge/Email-info@hindukushsoft.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hindukushsoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HindukushSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hindukushsoft/)
 [![Facebook](https://img.shields.io/badge/Facebook-HindukushSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hindukushsoft/)
@@ -324,7 +343,7 @@ Office 1, Polo View Hotel, Polo Ground, Attaliq Bazar, Chitral, Pakistan
 <br />
 
 <!-- ============================== DIVIDER ============================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6634f1,50:b882fc,100:6634f1&height=2" width="100%" alt="" />
 
 <br />
 
@@ -343,6 +362,6 @@ Office 1, Polo View Hotel, Polo Ground, Attaliq Bazar, Chitral, Pakistan
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00d4aa&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6634f1,100:b882fc&height=100&section=footer" width="100%" alt="" />
 
 </div>
