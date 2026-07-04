@@ -13,6 +13,8 @@
 
 [![Website](https://img.shields.io/badge/Website-hindukushsoft.com-6634f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindukushsoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HindukushSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hindukushsoft/)
+[![Facebook](https://img.shields.io/badge/Facebook-HindukushSoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hindukushsoft/)
+[![Instagram](https://img.shields.io/badge/Instagram-hindukushsoft-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hindukushsoft)
 [![X](https://img.shields.io/badge/X-@hindukushsoft-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/hindukushsoft)
 [![Upwork](https://img.shields.io/badge/Upwork-Rising_Talent-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01afbe3bc8be555d95)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Vetted_Pro-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/hindukushsoft/)
