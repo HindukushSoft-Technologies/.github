@@ -14,6 +14,8 @@
 [![Website](https://img.shields.io/badge/Website-hindukushsoft.com-6634f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindukushsoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HindukushSoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hindukushsoft/)
 [![X](https://img.shields.io/badge/X-@hindukushsoft-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/hindukushsoft)
+[![Upwork](https://img.shields.io/badge/Upwork-Rising_Talent-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01afbe3bc8be555d95)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Vetted_Pro-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/hindukushsoft/)
 
 <br />
 
@@ -21,6 +23,8 @@ We are a Pakistan-based software company creating **scalable, modern, and impact
 
 <br />
 
+![SECP](https://img.shields.io/badge/Registered_with-SECP-6634f1?style=flat-square)
+![FBR](https://img.shields.io/badge/Registered_with-FBR-b882fc?style=flat-square)
 ![PSEB](https://img.shields.io/badge/Registered_with-PSEB-6634f1?style=flat-square)
 ![NAVTTC](https://img.shields.io/badge/Recognized_by-NAVTTC-b882fc?style=flat-square)
 ![UoC MoU](https://img.shields.io/badge/MoU-University_of_Chitral-6634f1?style=flat-square)
@@ -41,7 +45,7 @@ We are a Pakistan-based software company creating **scalable, modern, and impact
 
 We specialize in designing, developing, and maintaining custom software tailored to real-world needs, from enterprise-grade management systems for government departments to AI-powered applications for modern businesses.
 
-**Registered with the Pakistan Software Export Board (PSEB)** and recognized by the **National Vocational and Technical Training Commission (NAVTTC)**, we have also signed a **Memorandum of Understanding (MoU) with the University of Chitral** to provide internship opportunities to BS Computer Science students. Under the **PSEB SkillBridge Apprenticeship Program**, we offer paid internship and apprenticeship opportunities in partnership with the **Ministry of IT and Telecom**.
+**Registered with the Securities and Exchange Commission of Pakistan (SECP), Federal Board of Revenue (FBR), Pakistan Software Export Board (PSEB)** and recognized by the **National Vocational and Technical Training Commission (NAVTTC)**, we have also signed a **Memorandum of Understanding (MoU) with the University of Chitral** to provide internship opportunities to BS Computer Science students. Under the **PSEB SkillBridge Apprenticeship Program**, we offer paid internship and apprenticeship opportunities in partnership with the **Ministry of IT and Telecom**.
 
 <br />
 
@@ -158,36 +162,36 @@ We specialize in designing, developing, and maintaining custom software tailored
 
 ## 📦 Featured Projects
 
-### 🏛️ MFSC MIS
-> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** React · TypeScript · Laravel · MySQL · Vite
+### 🏛️ Digitization of Model Farm Services Center - Khyber Pakhtunkhwa (Govt. Project)
+> **Status:** ☑️ Production &nbsp;|&nbsp; **Tech:** React · TypeScript · Laravel · MySQL · Vite
 > 
 > Management Information System for the Agriculture Department of Lower Chitral. A production-grade enterprise solution digitizing government operations, currently being rolled out across all 38 districts of Khyber Pakhtunkhwa under the Government of KP.
 
 <br />
 
 ### 📱 GPA Calculator & Planner
-> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** Kotlin · Jetpack Compose · Material 3
+> **Status:** ☑️ Production &nbsp;|&nbsp; **Tech:** Kotlin · Jetpack Compose · Material 3
 > 
 > The #1 GPA Calculator app worldwide on Android with 50,000+ downloads. A full-scale academic management app supporting multiple grading systems, semester planning, target GPA forecasting, and professional PDF reporting.
 
 <br />
 
 ### 🍽️ Cibao Grille
-> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** Next.js · Payload CMS · TypeScript
+> **Status:** ☑️ Production &nbsp;|&nbsp; **Tech:** Next.js · Payload CMS · TypeScript
 > 
 > Full-stack web platform for a fine dining restaurant in Naples, Florida. Features dynamic menu management, CMS-powered content, and a polished brand experience.
 
 <br />
 
 ### 🏨 Hotel Innjigaan
-> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** React.js · TypeScript · Vite · Tailwind CSS
+> **Status:** ☑️ Production &nbsp;|&nbsp; **Tech:** React.js · TypeScript · Vite · Tailwind CSS
 > 
 > Custom hospitality website for a hotel in Chitral with room showcases, booking inquiries, gallery, and brand-aligned design. Integrated with desktop hotel management software.
 
 <br />
 
 ### 💻 Inventro POS
-> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** Electron · React · TypeScript · SQLite
+> **Status:** ☑️ Production &nbsp;|&nbsp; **Tech:** Electron · React · TypeScript · SQLite
 > 
 > Desktop point-of-sale and inventory management system for retail businesses. Features billing, inventory tracking, supplier management, khaata management, expense tracking, and role-based access.
 
@@ -271,8 +275,17 @@ We have successfully completed **three internship batches**, producing developer
 
 <br />
 
-**Registered Office:**
-Office 1, Polo View Hotel, Polo Ground, Attaliq Bazar, Chitral, Pakistan
+[![Contact Us](https://img.shields.io/badge/Contact_Us-hindukushsoft.com/contact-10b981?style=for-the-badge&logo=minutemailer&logoColor=white)](https://www.hindukushsoft.com/contact/)
+</div>
+
+<br />
+
+**Office Contacts:**
+- 📞 **Office:** 0943 219679
+- 📱 **Mobile:** +92 306 216 9608
+- ✉️ **Email:** [info@hindukushsoft.com](mailto:info@hindukushsoft.com)
+- 📍 **Address:** Office 1, Polo View Hotel, Polo Ground, Attaliq Bazar, Chitral, Pakistan
+- 🕒 **Hours:** Mon - Fri: 9:00 AM - 5:00 PM
 
 <br />
 
