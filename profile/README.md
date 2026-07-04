@@ -79,22 +79,20 @@ To become a globally recognized technology company that creates innovative softw
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><strong>Innovation</strong></td>
-<td align="center" width="25%"><strong>Integrity</strong></td>
-<td align="center" width="25%"><strong>Quality</strong></td>
-<td align="center" width="25%"><strong>Transparency</strong></td>
+<td align="center"><strong>Innovation</strong></td>
+<td align="center"><strong>Integrity</strong></td>
+<td align="center"><strong>Quality</strong></td>
+<td align="center"><strong>Transparency</strong></td>
+<td align="center"><strong>Collaboration</strong></td>
+<td align="center"><strong>Adaptability</strong></td>
 </tr>
 <tr>
-<td align="center" width="25%"><strong>Collaboration</strong></td>
-<td align="center" width="25%"><strong>Continuous Learning</strong></td>
-<td align="center" width="25%"><strong>Professionalism</strong></td>
-<td align="center" width="25%"><strong>Community Impact</strong></td>
-</tr>
-<tr>
-<td align="center" width="25%"><strong>Client Success</strong></td>
-<td align="center" width="25%"><strong>Problem Solving</strong></td>
-<td align="center" width="25%"><strong>Adaptability</strong></td>
-<td align="center" width="25%"><strong>Empowerment</strong></td>
+<td align="center"><strong>Continuous Learning</strong></td>
+<td align="center"><strong>Professionalism</strong></td>
+<td align="center"><strong>Community Impact</strong></td>
+<td align="center"><strong>Client Success</strong></td>
+<td align="center"><strong>Problem Solving</strong></td>
+<td align="center"><strong>Empowerment</strong></td>
 </tr>
 </table>
 
