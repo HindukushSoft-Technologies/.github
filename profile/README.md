@@ -9,7 +9,7 @@
 
 <!-- LOGO — Replace with your actual company logo -->
 <!-- Recommended: 120×120px or 150×150px, PNG/SVG with transparent background -->
-<img src="https://via.placeholder.com/150x150/0a0a0a/b882fc?text=HS" alt="HindukushSoft Technologies Logo" width="120" />
+<img src="../HindukushSoft-Logo.png" alt="HindukushSoft Technologies Logo" width="120" />
 
 <br />
 <br />
@@ -77,7 +77,7 @@ To become a globally recognized technology company that creates innovative softw
 
 ### Core Values
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="20%"><strong>Innovation</strong></td>
 <td align="center" width="20%"><strong>Integrity</strong></td>
@@ -250,7 +250,7 @@ To become a globally recognized technology company that creates innovative softw
 
 | Project | Description | Status | Technologies |
 |---------|-------------|--------|--------------|
-| **MFSC MIS** | Management Information System for the Agriculture Department of Lower Chitral. A production-grade enterprise solution digitizing government operations, currently being rolled out across all 38 districts of Khyber Pakhtunkhwa under the Government of KP. | ✅ Production | Next.js · Node.js · PostgreSQL |
+| **MFSC MIS** | Management Information System for the Agriculture Department of Lower Chitral. A production-grade enterprise solution digitizing government operations, currently being rolled out across all 38 districts of Khyber Pakhtunkhwa under the Government of KP. | ✅ Production | React · TypeScript · Laravel · MySQL · Vite |
 | **GPA Calculator & Planner** | The #1 GPA Calculator app worldwide on Android with 50,000+ downloads. A full-scale academic management app supporting multiple grading systems, semester planning, target GPA forecasting, and professional PDF reporting. | ✅ Production | Kotlin · Jetpack Compose · Material 3 |
 | **Cibao Grille** | Full-stack web platform for a fine dining restaurant in Naples, Florida. Features dynamic menu management, CMS-powered content, and a polished brand experience. | ✅ Production | Next.js · Payload CMS · TypeScript |
 | **Hotel Innjigaan** | Custom hospitality website for a hotel in Chitral with room showcases, booking inquiries, gallery, and brand-aligned design. Integrated with desktop hotel management software. | ✅ Production | React.js · TypeScript · Vite · Tailwind CSS |
@@ -357,7 +357,7 @@ Office 1, Polo View Hotel, Polo Ground, Attaliq Bazar, Chitral, Pakistan
 
 <br />
 
-<sub>© 2025 HindukushSoft Technologies Pvt. Ltd. All rights reserved.</sub>
+<sub>© 2026 HindukushSoft Technologies Pvt. Ltd. All rights reserved.</sub>
 
 <br />
 <br />
