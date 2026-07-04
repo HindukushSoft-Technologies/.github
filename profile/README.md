@@ -158,14 +158,38 @@ We specialize in designing, developing, and maintaining custom software tailored
 
 ## 📦 Featured Projects
 
-| Project | Description | Status | Technologies |
-|---------|-------------|--------|--------------|
-| **MFSC MIS** | Management Information System for the Agriculture Department of Lower Chitral. A production-grade enterprise solution digitizing government operations, currently being rolled out across all 38 districts of Khyber Pakhtunkhwa under the Government of KP. | ✅ Production | React · TypeScript · Laravel · MySQL · Vite |
-| **GPA Calculator & Planner** | The #1 GPA Calculator app worldwide on Android with 50,000+ downloads. A full-scale academic management app supporting multiple grading systems, semester planning, target GPA forecasting, and professional PDF reporting. | ✅ Production | Kotlin · Jetpack Compose · Material 3 |
-| **Cibao Grille** | Full-stack web platform for a fine dining restaurant in Naples, Florida. Features dynamic menu management, CMS-powered content, and a polished brand experience. | ✅ Production | Next.js · Payload CMS · TypeScript |
-| **Hotel Innjigaan** | Custom hospitality website for a hotel in Chitral with room showcases, booking inquiries, gallery, and brand-aligned design. Integrated with desktop hotel management software. | ✅ Production | React.js · TypeScript · Vite · Tailwind CSS |
-| **Inventro POS** | Desktop point-of-sale and inventory management system for retail businesses. Features billing, inventory tracking, supplier management, khaata management, expense tracking, and role-based access. | ✅ Production | Electron · React · TypeScript · SQLite |
-| <!-- PROJECT_PLACEHOLDER --> | <!-- Description --> | <!-- Status --> | <!-- Technologies --> |
+### 🏛️ MFSC MIS
+> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** React · TypeScript · Laravel · MySQL · Vite
+> 
+> Management Information System for the Agriculture Department of Lower Chitral. A production-grade enterprise solution digitizing government operations, currently being rolled out across all 38 districts of Khyber Pakhtunkhwa under the Government of KP.
+
+<br />
+
+### 📱 GPA Calculator & Planner
+> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** Kotlin · Jetpack Compose · Material 3
+> 
+> The #1 GPA Calculator app worldwide on Android with 50,000+ downloads. A full-scale academic management app supporting multiple grading systems, semester planning, target GPA forecasting, and professional PDF reporting.
+
+<br />
+
+### 🍽️ Cibao Grille
+> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** Next.js · Payload CMS · TypeScript
+> 
+> Full-stack web platform for a fine dining restaurant in Naples, Florida. Features dynamic menu management, CMS-powered content, and a polished brand experience.
+
+<br />
+
+### 🏨 Hotel Innjigaan
+> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** React.js · TypeScript · Vite · Tailwind CSS
+> 
+> Custom hospitality website for a hotel in Chitral with room showcases, booking inquiries, gallery, and brand-aligned design. Integrated with desktop hotel management software.
+
+<br />
+
+### 💻 Inventro POS
+> **Status:** ✅ Production &nbsp;|&nbsp; **Tech:** Electron · React · TypeScript · SQLite
+> 
+> Desktop point-of-sale and inventory management system for retail businesses. Features billing, inventory tracking, supplier management, khaata management, expense tracking, and role-based access.
 
 > **Note:** This table will be updated as we continue to ship and open-source more projects.
 
