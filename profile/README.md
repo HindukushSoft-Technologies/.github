@@ -45,47 +45,34 @@ We specialize in designing, developing, and maintaining custom software tailored
 
 <br />
 
-<table>
-<tr>
-<td width="50%">
-
 ### Our Mission
+> To help organizations digitally transform their operations through reliable, scalable, and modern software solutions, while creating opportunities for aspiring developers to gain real-world industry experience.
 
-To help organizations digitally transform their operations through reliable, scalable, and modern software solutions, while creating opportunities for aspiring developers to gain real-world industry experience.
-
-</td>
-<td width="50%">
+<br />
 
 ### Our Vision
-
-To become a globally recognized technology company that creates innovative software products while empowering young developers through practical experience, research, and innovation.
-
-</td>
-</tr>
-</table>
+> To become a globally recognized technology company that creates innovative software products while empowering young developers through practical experience, research, and innovation.
 
 <br />
 
 ### Core Values
 
-<table width="100%">
-<tr>
-<td align="center"><strong>Innovation</strong></td>
-<td align="center"><strong>Integrity</strong></td>
-<td align="center"><strong>Quality</strong></td>
-<td align="center"><strong>Transparency</strong></td>
-<td align="center"><strong>Collaboration</strong></td>
-<td align="center"><strong>Adaptability</strong></td>
-</tr>
-<tr>
-<td align="center"><strong>Continuous Learning</strong></td>
-<td align="center"><strong>Professionalism</strong></td>
-<td align="center"><strong>Community Impact</strong></td>
-<td align="center"><strong>Client Success</strong></td>
-<td align="center"><strong>Problem Solving</strong></td>
-<td align="center"><strong>Empowerment</strong></td>
-</tr>
-</table>
+<div align="center">
+
+![Innovation](https://img.shields.io/badge/Innovation-6634f1?style=for-the-badge)
+![Integrity](https://img.shields.io/badge/Integrity-b882fc?style=for-the-badge)
+![Quality](https://img.shields.io/badge/Quality-6634f1?style=for-the-badge)
+![Transparency](https://img.shields.io/badge/Transparency-b882fc?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Collaboration-6634f1?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-b882fc?style=for-the-badge)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-b882fc?style=for-the-badge)
+![Professionalism](https://img.shields.io/badge/Professionalism-6634f1?style=for-the-badge)
+![Community Impact](https://img.shields.io/badge/Community_Impact-b882fc?style=for-the-badge)
+![Client Success](https://img.shields.io/badge/Client_Success-6634f1?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-b882fc?style=for-the-badge)
+![Empowerment](https://img.shields.io/badge/Empowerment-6634f1?style=for-the-badge)
+
+</div>
 
 <br />
 
@@ -96,84 +83,14 @@ To become a globally recognized technology company that creates innovative softw
 
 ## ⚡ What We Build
 
-<table>
-<tr>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/web-design.png" alt="Web Apps" width="40" />
-<br /><br />
-<strong>Custom Web Applications</strong>
-<br />
-<sub>Modern, responsive, and high-performance web solutions built with cutting-edge technologies.</sub>
-<br /><br />
-</td>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/server.png" alt="Enterprise" width="40" />
-<br /><br />
-<strong>Enterprise Software</strong>
-<br />
-<sub>Scalable systems for government departments, organizations, and large-scale operations.</sub>
-<br /><br />
-</td>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI" width="40" />
-<br /><br />
-<strong>AI-Powered Solutions</strong>
-<br />
-<sub>Intelligent automation, LLM integrations, and AI-driven workflows for modern businesses.</sub>
-<br /><br />
-</td>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/smartphone-tablet.png" alt="Mobile" width="40" />
-<br /><br />
-<strong>Mobile Applications</strong>
-<br />
-<sub>Custom Android applications designed for performance and user experience.</sub>
-<br /><br />
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/cloud-development.png" alt="Cloud" width="40" />
-<br /><br />
-<strong>Cloud Solutions</strong>
-<br />
-<sub>Cloud-native applications, SaaS products, and scalable infrastructure.</sub>
-<br /><br />
-</td>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/design.png" alt="UI/UX" width="40" />
-<br /><br />
-<strong>UI/UX Design</strong>
-<br />
-<sub>Beautiful, intuitive interfaces crafted with modern design principles.</sub>
-<br /><br />
-</td>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/api-settings.png" alt="APIs" width="40" />
-<br /><br />
-<strong>APIs & Integrations</strong>
-<br />
-<sub>RESTful APIs, third-party integrations, and seamless backend services.</sub>
-<br /><br />
-</td>
-<td align="center" width="25%">
-<br />
-<img src="https://img.icons8.com/fluency/48/process.png" alt="Digital Transformation" width="40" />
-<br /><br />
-<strong>Digital Transformation</strong>
-<br />
-<sub>End-to-end digitization of business processes and government operations.</sub>
-<br /><br />
-</td>
-</tr>
-</table>
+- <img src="https://img.icons8.com/fluency/48/web-design.png" width="22" align="center" /> &nbsp; **Custom Web Applications** — Modern, responsive, and high-performance web solutions built with cutting-edge technologies.
+- <img src="https://img.icons8.com/fluency/48/server.png" width="22" align="center" /> &nbsp; **Enterprise Software** — Scalable systems for government departments, organizations, and large-scale operations.
+- <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="22" align="center" /> &nbsp; **AI-Powered Solutions** — Intelligent automation, LLM integrations, and AI-driven workflows for modern businesses.
+- <img src="https://img.icons8.com/fluency/48/smartphone-tablet.png" width="22" align="center" /> &nbsp; **Mobile Applications** — Custom Android applications designed for performance and user experience.
+- <img src="https://img.icons8.com/fluency/48/cloud-development.png" width="22" align="center" /> &nbsp; **Cloud Solutions** — Cloud-native applications, SaaS products, and scalable infrastructure.
+- <img src="https://img.icons8.com/fluency/48/design.png" width="22" align="center" /> &nbsp; **UI/UX Design** — Beautiful, intuitive interfaces crafted with modern design principles.
+- <img src="https://img.icons8.com/fluency/48/api-settings.png" width="22" align="center" /> &nbsp; **APIs & Integrations** — RESTful APIs, third-party integrations, and seamless backend services.
+- <img src="https://img.icons8.com/fluency/48/process.png" width="22" align="center" /> &nbsp; **Digital Transformation** — End-to-end digitization of business processes and government operations.
 
 <br />
 
