@@ -7,15 +7,6 @@
 <!-- BANNER — Ultra-wide minimalist technology banner -->
 <img src="../banner.png" width="100%" alt="HindukushSoft Technologies Banner" />
 
-<!-- LOGO — Replace with your actual company logo -->
-<!-- Recommended: 120×120px or 150×150px, PNG/SVG with transparent background -->
-<img src="../HindukushSoft-Logo.png" alt="HindukushSoft Technologies Logo" width="120" />
-
-<br />
-<br />
-
-# HindukushSoft Technologies
-
 ### Building Innovative Software. Empowering Communities.
 
 <br />
