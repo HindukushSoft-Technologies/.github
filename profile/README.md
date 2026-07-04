@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- HEADER WAVE — Branded gradient header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6634f1,100:b882fc&height=200&section=header&text=&fontSize=0" width="100%" alt="" />
+<!-- BANNER — Ultra-wide minimalist technology banner -->
+<img src="../banner.png" width="100%" alt="HindukushSoft Technologies Banner" />
 
 <!-- LOGO — Replace with your actual company logo -->
 <!-- Recommended: 120×120px or 150×150px, PNG/SVG with transparent background -->
